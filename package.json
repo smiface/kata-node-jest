@@ -1,0 +1,18 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.10",
+    "babel-jest": "^27.1.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "jest": "^27.1.0"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.13.9"
+  }
+}
